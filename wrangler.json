@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cape-to-glen-contact-form",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dea8e834-2a31-47f4-91ca-fa4e9edeb0ab",
+			"database_name": "cape-to-glen"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
